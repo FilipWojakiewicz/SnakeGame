@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SnakeGame/.vs/SnakeGame/v15/ipch
+*.db
+*.opendb
+*.vcxproj
+*.filters
+*.user
+*.sln
